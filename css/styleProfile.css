@@ -1,0 +1,128 @@
+.bouton1
+{
+	float: left;
+	background-color: red;
+	border: none;
+	text-align: center;
+	width: 200px;
+	color: white;
+	padding: 10px;
+	text-decoration: none;
+	display: inline-flex;
+	font-size: 16px;
+	margin: 2px 2px;
+	margin-top: 0%;
+	border-radius: 2rem;
+}
+.bouton2
+{
+	float: right;
+	background-color: red;
+	border: none;
+	text-align: center;
+	width: 200px;
+	color: white;
+	padding: 10px;
+	text-decoration: none;
+	display: inline-flex;
+	font-size: 16px;
+	margin: 2px 2px;
+	margin-top: 0%;
+	border-radius: 2rem;
+}
+
+img
+{
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+	display:inline-block;
+    margin-bottom: 0%;
+}
+
+#bloc_page
+{
+
+   margin:auto;
+   margin-top: 0%;
+   width: 900px;
+   background-color: #66CDAA
+
+}
+
+/*En tête de la page*/
+header
+
+ {
+    position: relative;
+    background-color: landscape;
+    border: 3px solid #00005C ;
+    border-radius: 10px 10px;
+    box-shadow: 6px 6px 50px 10px #000000;
+    opacity: 0.8;
+    padding-bottom: 10px;
+    height:150px
+ }
+.logo
+
+ {
+   display:inline-block;
+   margin-bottom: 0%;
+
+
+}
+
+h1
+
+ {
+    display:inline-block;
+    position:absolute;
+    text-align: center;
+    color: #006400;
+    right:0px;
+    top:0px;
+    margin-bottom: 0%;
+    margin-right: 20%;
+    margin-left: 20%; 
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 40px
+
+
+
+
+}
+h2
+{
+	color:#800000;
+	text-transform: uppercase;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 25px;
+}
+td
+{
+	font-size: 20px;
+	text-align: center ;
+	color: red;
+	font-weight: bold;
+	margin-bottom: 10%;
+}
+.attr
+{
+	color: #00008B;
+}
+
+
+
+
+footer
+{
+    border: 5px dashed #000047;
+    background-color: #20B2AA;
+    box-shadow: 1px 8px 29px 29px #807B7E;
+    border-radius: 6px 6px 6px 6px;
+    padding: 0% 0% 0% 0%;
+    width:900px;
+    text-align:center;
+    margin:auto;
+    width: 900px;
+}
